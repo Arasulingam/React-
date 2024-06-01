@@ -12,7 +12,7 @@ const userData = [
       "Machine Learning",
     ],
     online: true,
-    profile: "images/1.jpeg",
+    profile: "images/1.jpg",
   },
   {
     name: "Sathish",
@@ -20,7 +20,7 @@ const userData = [
     description: "Back-end Developer",
     skills: ["Python", "JavaScript", "React", "Node", "Machine Learning"],
     online: false,
-    profile: "images/2.jpeg",
+    profile: "images/1.jpg",
   },
   {
     name: "Deepak",
@@ -28,7 +28,7 @@ const userData = [
     description: "Digital Marketing Manager",
     skills: ["SEO", "Content Marketing", "Email Campaigns", "Photoshop"],
     online: true,
-    profile: "images/3.jpeg",
+    profile: "images/1.jpg",
   },
   {
     name: "Dinesh",
@@ -36,7 +36,7 @@ const userData = [
     description: "UI/UX Designer",
     skills: ["Figma", "Canva", "Graphic Design", "Photoshop"],
     online: true,
-    profile: "images/4.jpeg",
+    profile: "images/1.jpg",
   },
 ];
 function User(props) {
